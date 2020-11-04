@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2ActivitiesPadreHijoAmarillo</string>
+    <string name="pantalla1">Pantalla1</string>
+    <string name="edt_mensaje1">Escribe tu mensaje</string>
+    <string name="btn_enviar">ENVIAR</string>
+    <string name="txt_Recibido1">TextView</string>
+    <string name="pantalla2">pantalla2</string>
+    <string name="btn_enviar2">btn_enviar2</string>
+    <string name="edt_mensaje2">etd_mensaje2</string>
+</resources>
